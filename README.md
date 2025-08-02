@@ -58,8 +58,8 @@ output.txt
 ✅ Generates structured startup blueprints from simple text input
 
 📌 Notes
-	•	Built as part of the IBM AI Internship Capstone Project 2025.
-	•	GitHub repo link included in final PPT and PDF as required.
+	•	Built as part of the IBM AI Internship Project 2025.
+	•	GitHub repo link included in final PDF as required.
 
 🧑‍💻 Author
 
