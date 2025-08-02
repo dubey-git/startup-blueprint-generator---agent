@@ -1,0 +1,17 @@
+prompt_template = """
+Act as a startup consultant. Based on the following idea:
+
+"{idea}"
+
+Generate a detailed startup blueprint with the following sections:
+
+1. Market Opportunity
+2. Business Model
+3. Estimated Budget
+4. Go-to-Market Strategy
+5. Potential Competitors
+6. Revenue Streams
+7. Risks and Challenges
+
+Each section should be at least 5 lines, specific to the idea, and avoid repeating the idea name unnecessarily.
+"""
